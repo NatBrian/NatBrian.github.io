@@ -23,7 +23,7 @@ name                     : "Nathanael Brian"
 description              : "Nathanael Brian's website."
 url                      : "https://natbrian.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "NatBrian/natbrian.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -47,8 +47,9 @@ comments:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  enabled                : true
+  siteKey                : "6LcA7v0UAAAAAPjBm_nN5eXrrpxwrb1opN7EKdTK"
+  secret                 : "6LcA7v0UAAAAALzHNjexV2NTGQv-M8OcoPnPJaHV"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
