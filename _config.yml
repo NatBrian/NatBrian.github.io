@@ -284,6 +284,7 @@ defaults:
       comments: # true
       share: true
       related: # true
+      search: true
   # _posts
   - scope:
       path: ""
@@ -296,3 +297,4 @@ defaults:
       comments: # true
       share: true
       related: # true
+      search: true
