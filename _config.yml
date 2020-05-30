@@ -286,16 +286,16 @@ defaults:
       search: true
       toc: true
   # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #     toc: true
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: # true
-  #     comments: # true
-  #     share: true
-  #     related: # true
-  #     search: true
-  #     toc: true
+  - scope:
+      path: ""
+      type: posts
+      toc: true
+    values:
+      layout: single
+      author_profile: true
+      read_time: # true
+      comments: # true
+      share: true
+      related: # true
+      search: true
+      toc: true
