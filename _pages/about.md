@@ -19,6 +19,7 @@ Currently, I am doing my research with [Perception and Robotics Group at the Uni
 I am currently looking for a full time opportunity as a software engineer or a software developer. I am open to other technology positions as well.
 
 ___
+***
 <br/>
 
 # Projects  
@@ -122,6 +123,7 @@ ___
 *(Preview of d8sh shell)*
 
 ___
+***
 <br/>
 
 # CV
