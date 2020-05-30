@@ -18,14 +18,9 @@ Currently, I am doing my research with [Perception and Robotics Group at the Uni
 
 I am currently looking for a full time opportunity as a software engineer or a software developer. I am open to other technology positions as well.
 
-
-
 ___
 
-
-
 # Projects
-
 ## [Newspaper Search](https://github.com/NatBrian/Newspapers_Search_collaboration) 
 * Overview: Web scraping automation tool to detect threat words and build the data set from Newspapers
 * Languages: Python (Selenium and Beautifulsoup), JavaScript
@@ -125,20 +120,13 @@ ___
 
 *(Preview of d8sh shell)*
 
-
-
 ___
 
-
-
 # CV
-
 ## Education
-***
 * B.S. in Computer Science, University of Maryland - College Park, 2016
 
 ## Work experience
-***
 * **Perception & Robotics Group at the University of Maryland**: Research Assistant - 2019
   * Researched on improving data scraping efficiency to increase productivity in collecting data for machine learning.
   *	Researched on detecting the frequency of threat words in newspapers by building a web scraping automation system.
@@ -162,7 +150,6 @@ ___
 
 
 ## Programming Languages
-***
 * Java
 * Python 
 * C
@@ -178,7 +165,6 @@ ___
 
 
 ## Leadership
-***
 * President of Association of Indonesian Students at the University of Maryland: 2016 - 2020
 * Volunteered in Harlan, KY on adressing social issues in Appalachian Culture: 2018
 * Volunteered in Columbia, SC on adressing childhood healthcare and education: 2017
