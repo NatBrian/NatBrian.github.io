@@ -276,7 +276,6 @@ defaults:
   - scope:
       path: ""
       type: pages
-      toc: true
     values:
       layout: single
       author_profile: true
@@ -284,12 +283,14 @@ defaults:
       comments: # true
       share: true
       related: # true
+      toc: true
   # _pages
   - scope:
       path: ""
       type: pages
-      toc: true
     values:
       layout: single
       author_profile: true
+      share: true
+      toc: true
 
