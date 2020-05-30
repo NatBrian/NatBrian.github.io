@@ -283,4 +283,5 @@ defaults:
       comments: # true
       share: true
       related: # true
-      search: true
+      search: # true
+      toc: true
