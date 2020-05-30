@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/
+permalink: /publications/
 author_profile: true
 ---
 
@@ -89,8 +89,17 @@ author_profile: true
   *	Implemented a small subset of an interpreter for Small-C that supports math and Boolean operations and control flow.
 * Language: OCaml
 
+![](../images/smallc.gif)
+
+*(Preview of running Small-C sample programs)*
+
+
 # UNIX shell
 * Overview:
   * Developed a UNIX shell with C language that has basic UNIX shell commands and functions with extra features.
   *	Modified the UNIX shell to supports “&&” operator, input and output redirection, piping, and subshells.
 * Language: C
+
+![](../images/d8sh.gif)
+
+*(Preview of d8sh shell)*
