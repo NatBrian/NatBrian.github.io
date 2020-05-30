@@ -19,8 +19,9 @@ Currently, I am doing my research with [Perception and Robotics Group at the Uni
 I am currently looking for a full time opportunity as a software engineer or a software developer. I am open to other technology positions as well.
 
 ___
+<br/>
 
-# Projects
+# Projects  
 ## [Newspaper Search](https://github.com/NatBrian/Newspapers_Search_collaboration) 
 * Overview: Web scraping automation tool to detect threat words and build the data set from Newspapers
 * Languages: Python (Selenium and Beautifulsoup), JavaScript
@@ -121,6 +122,7 @@ ___
 *(Preview of d8sh shell)*
 
 ___
+<br/>
 
 # CV
 ## Education
