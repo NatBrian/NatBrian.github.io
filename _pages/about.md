@@ -23,6 +23,15 @@ ___
 <br/>
 
 # Projects  
+## [Two Hats Game](https://github.com/NatBrian/TwoHatsGame)
+* Overview: Mathematics simulation game of two hats. Where the user set up a hat color for each of the two people, either Blue or Red. If at least one of the two is right, they both win. They are allowed to come up with a plan in advance, but the adversary who is deciding which hats to put on them will hear the plan and will actively work against it.
+* Languages: Android Studio, Java
+
+![](../images/twohats.gif)
+
+*(Preview of Two Hats Game)*
+
+
 ## [Newspaper Search](https://github.com/NatBrian/Newspapers_Search_collaboration) 
 * Overview: Web scraping automation tool to detect threat words and build the data set from Newspapers
 * Languages: Python (Selenium and Beautifulsoup), JavaScript
