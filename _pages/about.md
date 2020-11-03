@@ -23,6 +23,16 @@ ___
 <br/>
 
 # Projects  
+
+## [Iribe Indoor Map](https://github.com/NatBrian/campus_indoor_map)
+* Overview: Campus building indoor map with openstreet and mapbox
+* Languages: Html, JSON
+
+![](../images/iribeindoor.gif)
+
+*(Preview of Iribe Indoor Map)*
+
+
 ## [Two Hats Game](https://github.com/NatBrian/TwoHatsGame)
 * Overview: Mathematics simulation game of two hats. Where the user set up a hat color for each of the two people, either Blue or Red. If at least one of the two is right, they both win. They are allowed to come up with a plan in advance, but the adversary who is deciding which hats to put on them will hear the plan and will actively work against it.
 * Languages: Android Studio, Java
