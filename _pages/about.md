@@ -8,21 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-
 Hi!
-I am Brian, an undergraduate student at the [University of Maryland, College Park](https://www.cs.umd.edu/). I am currently pursuing my Bachelor degree in Computer Science, focusing on Data Science; with minor in Actuarial Mathematics and Technology Entrepreneurship.
+My name is Nathanael Brian. I am an undergraduate at the [University of Maryland, College Park](https://www.cs.umd.edu/). I have attained my bachelor's degree in computer science, with minors in actuarial mathematics and technology entrepreneur. I am currently looking for a full time opportunity as a software engineer or a software developer. I am open to other technology positions as well.
 
-I have experiences working in Citibank and Deloitte Consulting. I did my last internship in Citibank as a summer analyst in GCB (Global Consumer Banking) Operation and Technology, working on Citi's data center onshoring project. Additionally, I did my internship in Deloitte Consulting, working on enterprise architecture for client's digitalization project. 
+I have plenty of work experience. Besides doing part-time jobs during my time at the university as a tutor and teaching assistant, I also did two internships. My first internship is in Deloitte consulting, where I joined a digitalization project for an OEM manufacture company. My second internship is at Citibank as an operation and technology summer analyst. I joined the Citibank Data onshoring project, where I managed application testing with 28 consumer banking departments. I also coordinate communication between Citibank's team and key stakeholders like Visa and MasterCard. 
 
-On previous semester, I did research with [Perception and Robotics Group at the University of Maryland, College Park](http://prg.cs.umd.edu/). My current research was on improving speech recognition in adverse condition.
+Besides the internship, I joined research at the University of Maryland to build a web scraping application used by the psychology team to detect action words in newspapers. I also research speech recognition APIs and see how they perform in adverse conditions such as low audio input, background noise, etc. 
 
-I am currently looking for a full time opportunity as a software engineer or a software developer. I am open to other technology positions as well.
+Besides technical skills, I also have good soft-skills, specifically, my leadership skill. I am the president of the Indonesian association at the University of Maryland. I created this group when I was a freshman. There was no Indonesian group at the university when I first entered. My responsibility is to help Indonesian first-year students who just joined. I also organized some social events and connected our group with the main Indonesian group in Washington, DC. 
 
 ___
 ***
 <br/>
 
 # Projects  
+## Kiosk
+* Overview: Campus Kiosk app. Functionality Indoor map, Directory Search, Direction Guide, Student Resources, Event and Activities
+* Languages: HTML, CSS, JavaScript
+
+![](../images/kiosk.gif)
+
+*(preview of Kiosk Page)*
+
 
 ## [Iribe Indoor Map](https://github.com/NatBrian/campus_indoor_map)
 * Overview: Campus building indoor map with openstreet and mapbox
