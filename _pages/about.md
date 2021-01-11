@@ -26,7 +26,7 @@ ___
 * Overview: Campus Kiosk app. Functionality Indoor map, Directory Search, Direction Guide, Student Resources, Event and Activities
 * Languages: HTML, CSS, JavaScript
 
-![](../images/kiosk.gif)
+![](../images/Kiosk.gif)
 
 *(preview of Kiosk Page)*
 
