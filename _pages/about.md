@@ -154,10 +154,13 @@ ___
 
 # CV
 ## Education
-* B.S. in Computer Science, University of Maryland - College Park, 2016
+* B.S. in Computer Science, University of Maryland - College Park, 2016 - 2020
 
 ## Work experience
-* **Perception & Robotics Group at the University of Maryland**: Research Assistant - 2019
+* **M-Tech at the University of Maryland**: Teaching Assistant - 2020
+  * Assisted professor in evaluating students’ homework and assignment by providing grades and feedback. 
+  
+* **Perception & Robotics Group at the University of Maryland**: Research Assistant - 2019 - 2020
   * Researched on improving data scraping efficiency to increase productivity in collecting data for machine learning.
   *	Researched on detecting the frequency of threat words in newspapers by building a web scraping automation system.
   *	Researched on speech recognition APIs (Google, Wit.AI, DeepSpeech) and create a better automatic transcribing tool
@@ -191,10 +194,18 @@ ___
 * OCaml
 * Rust
 * CSS
+* Git
+* Linux
+* Matlab
+* SAS
+* Visual Studio
+* Android Studio
+* Selenium
 * assembly
 
 
 ## Leadership
 * President of Association of Indonesian Students at the University of Maryland: 2016 - 2020
+* Member of Hinman CEO at the University of Maryland: 2019 - 2020 
 * Volunteered in Harlan, KY on adressing social issues in Appalachian Culture: 2018
 * Volunteered in Columbia, SC on adressing childhood healthcare and education: 2017
